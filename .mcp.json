@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aurora-design-system": {
+      "command": "node",
+      "args": ["tools/aurora-mcp/launch-remote.mjs"]
+    }
+  }
+}
